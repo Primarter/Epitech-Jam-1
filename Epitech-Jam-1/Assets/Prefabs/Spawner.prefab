@@ -43,4 +43,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ba9a559689a2744e8fc6f49417c2ad0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnSources: []
+  period: 3000
+  spawnSources:
+  - {fileID: 4875636188147083896, guid: 43edc8596a56db542a8575316a9dcdcd, type: 3}
+  - {fileID: -927199367670048503, guid: 320b1c2af77554f99a1658df4a6d3d5c, type: 3}
+  - {fileID: 100168, guid: aad1b7ffae36ae845addd766a72b9920, type: 3}
